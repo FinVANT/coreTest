@@ -1,0 +1,1 @@
+{"tasks":[{"component":"BE","priority":"HIGH","content":"Implement the backend API for health check endpoint"},{"component":"FE","priority":"HIGH","content":"Create the frontend component to display health check status"},{"component":"TEST","priority":"HIGH","content":"Write unit tests for health check functionality"}]}
